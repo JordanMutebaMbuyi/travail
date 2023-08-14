@@ -1,16 +1,16 @@
 ## README tpcalculateur.bash 
 Programme d'installation tpcalculateur.bash, réalisé par :
 
-MUTEBA  MBUYI  Jordan 
-MAMBAKA  NDONGALA Theo 
-KABUO   HANGI   Grace 
-NZANZU YIBIFU    Asser 
-MBAYI  OLEMI    Jacques 
-NTANGU  NSINGA   Jérémie 
-MASONSA  BAVUIDINSI   Christian 
-LUMBU  LEKA Grady 
-KAMANGO  BETSHINDO   Alberto 
-NKAN BISSION   Jérémie 
+MUTEBA  MBUYI  Jordan;
+MAMBAKA  NDONGALA Theo ;
+KABUO   HANGI   Grace ;
+NZANZU YIBIFU    Asser ;
+MBAYI  OLEMI    Jacques ;
+NTANGU  NSINGA   Jérémie ;
+MASONSA  BAVUIDINSI   Christian ;
+LUMBU  LEKA Grady ;
+KAMANGO  BETSHINDO   Alberto ;
+NKAN BISSION   Jérémie ;
 
  etudiants L2 (Génie-Info, 2021-2022) Dr. Christian Bope
 
